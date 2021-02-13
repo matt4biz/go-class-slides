@@ -77,3 +77,11 @@
 38 [Testing](go-38-testing-slides.pdf)
 
 39 [Code coverage](go-39-coverage-slides.pdf)
+
+40 [Modules](go-40-modules-slides.pdf)
+
+41 [Building for distribution](go-41-build-slides.pdf)
+
+42 [Generics](go-42-generics-slides.pdf)
+
+43 [Parting thoughts](go-43-thoughts-slides.pdf)
