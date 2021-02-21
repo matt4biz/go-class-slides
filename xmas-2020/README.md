@@ -26,7 +26,9 @@
 
 12 [Structs, struct tags & JSON](go-12-structs-slides.pdf)
 
-14 [Reference & value emantics](go-14-semantics-slides.pdf)
+13 [Regular expressions & search](go-13-regex-slides.pdf)
+
+14 [Reference & value semantics](go-14-semantics-slides.pdf)
 
 15 [Networking with HTTP](go-15-http-slides.pdf)
 
