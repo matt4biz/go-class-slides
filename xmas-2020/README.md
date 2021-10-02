@@ -1,5 +1,7 @@
 ## Christmas 2020 Go class
 
+You can find the videos in this [YouTube playlist](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
+
 00 [Intro and Why Go?](go-00-intro-slides.pdf)
 
 01 [Hello world!](go-01-hello-slides.pdf)
